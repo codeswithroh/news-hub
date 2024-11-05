@@ -2,8 +2,6 @@
 
 A modern, responsive news aggregator platform built with Next.js and styled with Tailwind CSS. NewsHub provides a clean and intuitive interface to access various leading news sources in one place.
 
-![NewsHub Screenshot](/api/placeholder/800/400)
-
 ## ✨ Features
 
 - 🎨 Modern UI with soft pastel color theme
