@@ -126,7 +126,7 @@ const NewsAggregator = () => {
           Made with{" "}
           <Heart
             className="text-red-500 fill-red-500 animate-pulse"
-            size={20}
+            size={22}
           />{" "}
           by{" "}
           <a
